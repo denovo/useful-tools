@@ -1,0 +1,30 @@
+---
+paths:
+  home: /
+  __cats: /cats/
+  __charity: /charity/
+  __our-story: /our-story/
+  __account: /account/
+  __sign-in: /sign-in/
+  __pet-care: /pet-care/
+  __dogs: /dogs/
+  __buy-now: /buy-now/
+  __free-sample__: /free-sample//
+  __free-sample: /free-sample/
+  # __lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-5: /lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-5/
+  # __dog-and-cat-vaccines-why-what-and-when: /dog-and-cat-vaccines-why-what-and-when/
+  # __pros-and-cons-collars-vs-harnesses: /pros-and-cons-collars-vs-harnesses/
+  # __the-dangers-of-throwing-sticks-for-your-dog: /the-dangers-of-throwing-sticks-for-your-dog/
+  # __choosing-the-right-breed-of-dog-for-your-lifestyle: /choosing-the-right-breed-of-dog-for-your-lifestyle/
+  __contact-us: /contact-us/
+  __neutering: /neutering/
+  __site-map: /site-map/
+  __shipping-information: /shipping-information/
+  __cookie-policy: /cookie-policy/
+  __terms-of-use: /terms-of-use/
+  __terms-and-conditions-of-sale: /terms-and-conditions-of-sale/
+  __privacy-policy: /privacy-policy/
+  __accessibility-statement: /accessibility-statement/
+  __account__forgot-password: /account/forgot-password/
+  __register: /register/
+  __complete-your-order: /complete-your-order/

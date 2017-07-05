@@ -1,0 +1,1 @@
+lib/ffmpeg/ffmpeg -i assets/mp4/bil174.mp4 -c:v libvpx -crf 4 -minrate 1M -b:v 1.5M -c:a libvorbis assets/webm/bil174.webm

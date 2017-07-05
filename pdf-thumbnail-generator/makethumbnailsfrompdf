@@ -1,0 +1,20 @@
+#!/bin/sh
+
+
+
+# generates jpg thumbnails from all pdf files found in the assets/pdfs/ folder
+
+for f in ./assets/pdfs/*.pdf;
+do echo $f;
+  convert -density 144 -thumbnail 1280x1280 $f[0] -background white -flatten $f.jpg;
+done
+
+
+
+
+
+
+# for f in ./assets/pdfs/*.pdf;
+# do echo $f;
+#    convert -thumbnail 1280x1280 $f -flatten ./assets/jpgs/$f.jpg;
+# done
